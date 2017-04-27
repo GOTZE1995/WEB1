@@ -1,0 +1,21 @@
+h1{
+	font-size: 20px;
+	font-family: '微软雅黑';
+	color:#686868;
+	font-weight: normal;
+}
+
+h2{
+	font-size:12px;
+	font-weight: normal;
+	font-family: Arial;
+	color: #a9a8a8;
+}
+
+.font_next{
+	color: #22a3d3;
+}
+
+.textp{
+	text-indent: 2em;
+}
